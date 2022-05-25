@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="answer_message">Хорошо, спасибо тебе!!!</string>
+    <string name="user_photo">Фото</string>
+    <string name="count_message_text">10+</string>
+    <string name="finish_message">Все сообщения загружены</string>
+    <string name="app_refresh_text">App refreshing</string>
+    <string name="toolbar_image">Photo</string>
+</resources>
